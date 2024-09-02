@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+    background:  #c9a74a;
+ }
+.btn-volver{
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.tituloCanto{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.col{
+    display: flex;
+    justify-content: center !important;
+    margin-top: 4%;
+}
+
+
+.card {
+   
+    width: 80%;
+}
+
+footer{
+    color: aliceblue;
+    margin-top: 3%;
+    font-size: 112%;
+}
